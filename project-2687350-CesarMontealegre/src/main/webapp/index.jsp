@@ -48,7 +48,7 @@
 
         <button class="w-100 btn btn-lg btn-primary" type="submit">Ingresar</button>
         <div id="link">
-            <a href="#">Registrarse</a>
+            <a href="jsp/registerUser.jsp">Registrarse</a>
         </div>
         <p class="mt-3 mb-3 text-muted">Todos los Derechos Reservados My App Form - Cesar Fernando Montealegre Correa ©
             <%=displayDate()%>
